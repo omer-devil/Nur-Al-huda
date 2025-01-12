@@ -1,3 +1,10 @@
+# =========================================================================== #
+# Author: Omer Kemal                                                          #
+# Social Media:                                                               #
+#   - Facebook: https://web.facebook.com/omer.kemal.7                         #
+#   - GitHub: https://github.com/omer-devil                                   #
+# =========================================================================== #
+
 import smtplib
 from email.message import EmailMessage
 from sqlalchemy.orm import sessionmaker
