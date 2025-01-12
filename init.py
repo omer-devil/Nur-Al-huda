@@ -1,11 +1,8 @@
 # =========================================================================== #
 # Author: Omer Kemal                                                          #
-# Website: https://www.johndoe.com                                            #
 # Social Media:                                                               #
-#   - Facebook: https://www.facebook.com/johndoe                              #
-#   - Telegram: https://t.me/johndoe                                          #
-#   - Twitter: @JohnDoe                                                       #
-#   - GitHub: https://github.com/johndoe                                      #
+#   - Facebook: https://web.facebook.com/omer.kemal.7                         #
+#   - GitHub: https://github.com/omer-devil                                   #
 # =========================================================================== #
 
 from database.manage_db import create_db_dir, create_all_db_tables, create_admin_account, create_log_dir, engine, default_subject,create_excel_dir
