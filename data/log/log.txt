@@ -1,0 +1,23 @@
+[  2025-01-07 19:15:46.751399  ] : Error occurred: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+[  2025-01-08 01:02:56.493415  ] : login succsesfully --> [['0GqXL', 'admin', 'admin']]
+[  2025-01-08 01:36:09.920737  ] : Error occurred: list object has no element 0
+[  2025-01-08 01:36:10.487601  ] : internal_server_error --> (500) By:ID=0GqXL name=admin
+[  2025-01-08 01:41:14.039057  ] : Error occurred: list object has no element 0
+[  2025-01-08 01:41:14.594370  ] : internal_server_error --> (500) By:ID=0GqXL name=admin
+[  2025-01-08 01:45:31.100937  ] : Error occurred: list object has no element 0
+[  2025-01-08 01:45:31.644020  ] : internal_server_error --> (500) By:ID=0GqXL name=admin
+[  2025-01-09 14:46:12.768418  ] : login succsesfully --> [['0GqXL', 'admin', 'admin']]
+[  2025-01-09 14:53:45.120640  ] : login succsesfully --> [['0GqXL', 'admin', 'admin']]
+[  2025-01-09 15:21:34.365646  ] : login succsesfully --> [['0GqXL', 'admin', 'admin']]
+[  2025-01-09 15:24:49.626763  ] : login succsesfully --> [['0GqXL', 'admin', 'admin']]
+[  2025-01-09 15:34:28.339847  ] : login succsesfully --> [['0GqXL', 'admin', 'admin']]
+[  2025-01-09 15:38:32.645848  ] : login succsesfully --> [['0GqXL', 'admin', 'admin']]
+[  2025-01-09 15:41:15.371513  ] : login succsesfully --> [['0GqXL', 'admin', 'admin']]
+[  2025-01-09 15:43:03.882138  ] : login succsesfully --> [['0GqXL', 'admin', 'admin']]
+[  2025-01-10 15:16:15.517337  ] : login succsesfully --> [['0GqXL', 'admin', 'admin']]
+[  2025-01-10 15:26:00.814180  ] : Error occurred: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+[  2025-01-10 15:26:01.393687  ] : internal_server_error --> (500) By:ID=0GqXL name=admin
+[  2025-01-10 15:28:04.086410  ] : login succsesfully --> [['0GqXL', 'admin', 'admin']]
+[  2025-01-10 15:28:50.552244  ] : Error occurred: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+[  2025-01-10 15:28:51.070049  ] : internal_server_error --> (500) By:ID=0GqXL name=admin
+[  2025-01-12 21:09:44.899450  ] : login succsesfully --> [['0GqXL', 'admin', 'admin']]
