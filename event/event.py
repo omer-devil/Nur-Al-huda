@@ -1,3 +1,9 @@
+# =========================================================================== #
+# Author: Omer Kemal                                                          #
+# Social Media:                                                               #
+#   - Facebook: https://web.facebook.com/omer.kemal.7                         #
+#   - GitHub: https://github.com/omer-devil                                   #
+# =========================================================================== #
 from flask import render_template, Blueprint, session, redirect, url_for
 
 from utility.setting import Setting
