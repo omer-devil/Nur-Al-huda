@@ -46,7 +46,7 @@ class Setting:
         self.EXCEL_DIR = "data/excel/"
 
         # email setting
-        self.EMAIL_PASSWORD = 'zfhh umpy iiuj crpp'
+        self.EMAIL_PASSWORD = 'password'
         self.EMAIL = 'omerkemal2019@gmail.com'
         self.SMTP_LINK = 'smtp.gmail.com'
         self.SMTP_PORT = 587
