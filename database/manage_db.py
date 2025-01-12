@@ -1,11 +1,8 @@
 # =========================================================================== #
 # Author: Omer Kemal                                                          #
-# Website: https://www.johndoe.com                                            #
 # Social Media:                                                               #
-#   - Facebook: https://www.facebook.com/johndoe                              #
-#   - Telegram: https://t.me/johndoe                                          #
-#   - Twitter: @JohnDoe                                                       #
-#   - GitHub: https://github.com/johndoe                                      #
+#   - Facebook: https://web.facebook.com/omer.kemal.7                         #
+#   - GitHub: https://github.com/omer-devil                                   #
 # =========================================================================== #
 
 import os
